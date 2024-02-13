@@ -6,6 +6,9 @@ contributor:
     alias: BERNKLAU
     gutenberg_agent_id: '25935'
     url: http://www.gutenberg.org/2009/agents/25935
+covers:
+- cover_type: archival
+  image_path: 72795-h/images/cover.jpg
 creator:
   author:
     agent_name: Bone, Jesse F. (Jesse Franklin)
@@ -18,6 +21,8 @@ creator:
     gutenberg_agent_id: '946'
     url: http://www.gutenberg.org/2009/agents/946
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72795#Weapon
 gutenberg_issued: '2024-01-25'
 gutenberg_type: Text
 identifiers:
